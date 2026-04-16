@@ -1,70 +1,21 @@
-<h1 align="center">Sneha</h1>
-
----
-
-<h2 align="center">✨ About Me</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0f172a?style=for-the-badge" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-I'm%20Sneha-111827?style=for-the-badge&logo=github" />
-</p>
-
-<br>
-
-<div align="center">
-
-```
-👩‍💻  B.Tech Student (CSE)
-📍  Agartala, India
-🚀  Building scalable full-stack applications
-🧠  Focus: Backend systems & clean architecture
-🎯  Current Goal: Improving problem-solving skills
-```
-
-</div>
-
----
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,tailwind,docker,git" />
-</p>
-
----
-
-<h2 align="center">🚀 Projects</h2>
-
-<div align="center">
-
-**Ignita**
-Event Aggregator Platform for students (hackathons, internships, alerts)
+# About Me:
+👩‍💻 B.Tech Student (CSE) 📍 India 🚀 Building scalable full-stack applications 🧠 Focus: Backend systems & clean architecture 🎯 Current Goal: Improving problem-solving skills
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-pal-54669428a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xsnehapal@gmail.com) 
 
-**LinkedIn Post Generator**
-Generate clean professional posts
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sneha-Pal1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Sneha-Pal1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sneha-Pal1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sneha-Pal1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sneha-Pal1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2 align="center">📊 Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark&hide_border=true" height="150"/>
-</p>
-
----
-
-<h2 align="center">🤝 Open for Collaboration</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Awesome-2563eb?style=for-the-badge" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
