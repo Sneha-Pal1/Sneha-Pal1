@@ -1,5 +1,7 @@
 # About Me:
-👩‍💻 B.Tech Student (CSE) 📍 India 🚀 Building scalable full-stack applications 🧠 Focus: Backend systems & clean architecture 🎯 Current Goal: Improving problem-solving skills
+🎓 ʙ.ᴛᴇᴄʜ ᴄsᴇ sᴛᴜᴅᴇɴᴛ  
+💻 ғᴏᴄᴜsᴇᴅ ᴏɴ ғᴜʟʟ-ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ  
+⚙️ ʙᴜɪʟᴅɪɴɢ ᴄʟᴇᴀɴ  & sᴄᴀʟᴀʙʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs
 
 
 ## 🌐 Socials:
