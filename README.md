@@ -22,21 +22,10 @@
 ```typescript
 const snehaPal = {
   title: "Full Stack Developer | CS Student",
-  stack: {
-    languages: ["Java", "JavaScript", "TypeScript"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "Shadcn UI", "Framer Motion"],
-    backend: ["Node.js", "Express.js", "NestJS"],
-    databases: ["PostgreSQL", "MongoDB", "Supabase", "Neon"],
-    apisAndTools: ["Prisma", "TypeORM", "GraphQL", "REST API", "gRPC", "WebSockets"],
-    devops: ["Docker", "Docker Compose", "Git", "GitHub", "GitHub Actions", "CI/CD"],
-    cloud: ["Vercel", "Render", "Cloudflare", "Google Cloud"],
-    systemDesign: ["JWT", "Authentication", "Microservices", "System Design"],
-    ai: ["Gemini API", "RAG", "LLM Integration", "AI Agents", "Prompt Engineering", "VAPI"],
-  },
+  focus: ["Full Stack Development", "Microservices", "Cloud Computing", "DevOps", "AI Engineering"],
+  stack: ["Next.js", "React", "NestJS", "Node.js", "PostgreSQL", "MongoDB", "Prisma", "TypeORM", "GraphQL", "Docker", "CI/CD", "Supabase", "Cloudflare", "Gemini API", "RAG"],
   launchedProjects: ["Ignita-fullstack", "MyPrep"],
-  certifications: [],
   status: "Open to Work",
-  openTo: ["Full Stack Roles", "Collaborations", "AI Agent Projects"],
 };
 ```
 
