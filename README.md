@@ -31,28 +31,6 @@ const snehaPal = {
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Sneha-Pal1/Ignita-fullstack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Pal1&repo=Ignita-fullstack&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Ignita-fullstack"/>
-</a>
-<a href="https://github.com/Sneha-Pal1/MyPrep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha-Pal1&repo=MyPrep&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="MyPrep"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![Code](https://img.shields.io/badge/Code-Ignita--fullstack-7dd3fc?style=flat-square&logo=github)](https://github.com/Sneha-Pal1/Ignita-fullstack)
-[![Code](https://img.shields.io/badge/Code-MyPrep-7dd3fc?style=flat-square&logo=github)](https://github.com/Sneha-Pal1/MyPrep)
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
