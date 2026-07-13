@@ -29,33 +29,11 @@ const snehaPal = {
 };
 ```
 
----
+🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,shadcn" />
-
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,git,githubactions" />
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,render,cloudflare,gcp" />
-
-**AI / Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,graphql,prisma,gemini" />
-
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=github,docker,githubactions,vscode" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,postgres,mongodb,docker,graphql,gcp,github" />
+</div>
 
 ---
 
@@ -72,15 +50,6 @@ const snehaPal = {
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sneha-Pal1&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
