@@ -17,7 +17,7 @@
 
 ---
 
-### 👩‍💻 Who I Am
+###  Who I Am
 
 ```typescript
 const snehaPal = {
@@ -29,35 +29,13 @@ const snehaPal = {
 };
 ```
 
-🛠️ Tech Stack
+ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,postgres,mongodb,docker,graphql,gcp,github" />
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sneha-Pal1&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Pal1&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=Sneha-Pal1&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
-
-</div>
-
----
-
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-Pal1&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-</div>
 
 ---
 
